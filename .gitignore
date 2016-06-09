@@ -1,0 +1,10 @@
+build/
+node_modules/
+psd/
+*.zip
+*.rar
+*.7z
+*.psd
+MACOS/
+
+Thumbs.db
