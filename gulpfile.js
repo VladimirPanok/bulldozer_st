@@ -44,7 +44,7 @@ gulp.task('missionThree', function(){
 
 gulp.task('default', function(){
 
-	gulp.start('missionOne','missionTwo', 'missionZero', 'missionOne');
+	gulp.start('missionOne','missionTwo', 'missionZero', 'missionThree');
 
 
 	gulp.watch(['dev/css/*.css'], function(){
